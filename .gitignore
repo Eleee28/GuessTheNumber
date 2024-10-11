@@ -1,0 +1,16 @@
+*.iml
+*.hprof
+*.log
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+.firebase
+.unity3d
+.android
+local.properties
+/captures/
