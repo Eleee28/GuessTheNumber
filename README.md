@@ -17,7 +17,7 @@ This app is a fun interactive game where users try to guess a randomly generated
 
 ## Project Structure
 
-- **![Main Activity](app/src/main/java/com/example/a2numbers/MainActivity.kt)**: The main activity of the app that handles the game logic, including generating random numbers, processing guesses, tracking attempts and resetting the game.
+- **![Main Activity](app/src/main/java/com/example/guessthenumber/MainActivity.kt)**: The main activity of the app that handles the game logic, including generating random numbers, processing guesses, tracking attempts and resetting the game.
 - **![Layout File](app/src/main/res/layout/activity_main.xml)**: This is the layout file that contains the user interface components (input field, result message, buttons).
 
 ## How to Run
